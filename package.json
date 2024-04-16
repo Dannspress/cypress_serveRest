@@ -1,0 +1,22 @@
+{
+  "name": "cypress_serverest",
+  "version": "1.0.0",
+  "description": "Testing API with serveRest",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx serverest@latest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dannspress/cypress_serveRest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dannspress/cypress_serveRest/issues"
+  },
+  "homepage": "https://github.com/Dannspress/cypress_serveRest#readme",
+  "devDependencies": {
+    "cypress": "^13.7.3"
+  }
+}
